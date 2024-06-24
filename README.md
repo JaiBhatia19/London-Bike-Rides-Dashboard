@@ -1,5 +1,7 @@
 # London Bike Rides Dashboard
 
+![img](https://github.com/JaiBhatia19/London-Bike-Rides-Dashboard/assets/143343337/9ca8d5a2-0d68-4141-8ce0-856798637a0a)
+
 ## Project Overview
 This project involves analyzing bike rides in London from 01/04/2015 to 01/03/2017 to understand usage patterns and trends. The data is preprocessed using Python and visualized using Tableau, resulting in an interactive dashboard that provides detailed insights.
 
